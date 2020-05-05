@@ -16,7 +16,7 @@ Este servicio es de tipo post, es consumido por el componente Wallet para realiz
 
 El servicio devuelve como respuesta un dato de tipo "String" con el valor de “true” si la transferencia se realizó de forma exitosa y el valor “false” si se generó algún error durante la transferencia.
 
-Para el consumo del servicio se debe realizar a dirección [http://192.168.0.18:8080/coordinator/RestU/](http://192.168.0.18:8080/coordinator/RestU/)
+Para el consumo del servicio se debe realizar a dirección [http://142.44.246.66:8080/coordinator/RestU/rest/coordinator/pasodesaldo](http://142.44.246.66:8080/coordinator/RestU/rest/coordinator/pasodesaldo)
 
 ```bash
     @POST
@@ -78,7 +78,7 @@ Este servicio es de tipo post, es consumido por el componente Wallet para realiz
 
 El servicio devuelve como respuesta un dato de tipo "String" con el valor del monto o el mensaje enviado por el componente por blockchain.
 
-Para el consumo del servicio se debe realizar a dirección [http://192.168.0.18:8080/coordinator/RestU/](http://192.168.0.18:8080/coordinator/RestU/)
+Para el consumo del servicio se debe realizar a dirección [http://142.44.246.66:8080/coordinator/RestU/rest/coordinator/consultarsaldo](http://142.44.246.66:8080/coordinator/RestU/rest/coordinator/consultarsaldo)
 
 
 
