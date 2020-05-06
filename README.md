@@ -2,6 +2,9 @@
 
 El componente Cooordinador se desarrollo bajo el lenguage java, con el fin de coordinar a los diferentes componentes del proyecto.
 
+![Componentes](https://github.com/camilordg95/cordinador/blob/master/proceso.png)
+
+
 ## Contenido
 
 Dentro del desarrollo de componente se crearon diferentes clases y métodos los cuales se especifican mas a detalle en el el repositorio [javadoc_coordinator ](https://pip.pypa.io/en/stable/)
