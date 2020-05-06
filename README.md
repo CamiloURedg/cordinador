@@ -7,7 +7,7 @@ El componente Cooordinador se desarrollo bajo el lenguage java, con el fin de co
 
 ## Contenido
 
-Dentro del desarrollo de componente se crearon diferentes clases y métodos los cuales se especifican mas a detalle en el el repositorio [javadoc_coordinator ](https://pip.pypa.io/en/stable/)
+Dentro del desarrollo de componente se crearon diferentes clases y métodos los cuales se especifican mas a detalle en el el repositorio [javadoc](https://pip.pypa.io/en/stable/)
 
 ### Clase coordinator
 
@@ -70,10 +70,8 @@ Archivo tipo Json
 
 #### Respuesta del Consumo
 ```
-{
  "false" (Transacción Rechazada)
  "true" (Transacción exitosa)
-}
 ```
 #### Servicio Consulta de saldo
 
@@ -81,7 +79,7 @@ Este servicio es de tipo post, es consumido por el componente Wallet para realiz
 
 El servicio devuelve como respuesta un dato de tipo "String" con el valor del monto o el mensaje enviado por el componente por blockchain.
 
-Para el consumo del servicio se debe realizar a dirección [http://142.44.246.92:8080/RestU/rest/coordinator/consultarsaldo](http://142.44.246.66:8080/RestU/rest/coordinator/consultarsaldo)
+Para el consumo del servicio se debe realizar a dirección [http://142.44.246.92:8080/RestU/rest/coordinator/consultarsaldo](http://142.44.246.92:8080/RestU/rest/coordinator/consultarsaldo)
 
 
 
