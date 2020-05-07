@@ -7,7 +7,7 @@ El componente Cooordinador se desarrollo bajo el lenguage java, con el fin de co
 
 ## Contenido
 
-Dentro del desarrollo de componente se crearon diferentes clases y métodos los cuales se especifican mas a detalle en el el repositorio [javadoc](https://pip.pypa.io/en/stable/)
+Dentro del desarrollo de componente se crearon diferentes clases y métodos los cuales se especifican mas a detalle en el el repositorio [javadoc](http://142.44.246.92:8080/javadoc/index.html)
 
 ### Clase coordinator
 
@@ -211,7 +211,6 @@ public class clientb {
 }
 
 ```
-### Clase clientr
 
 ### Clase clientr
 En este clase se tiene un metodo, el cual consume el servicio publicado por el componente register.
